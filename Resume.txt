@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Resume</title>
+</head>
+<body>
+    <h1>RESUME</h1>
+    <hr />
+    <ul>
+        <h2><li>career objective</li></h2>
+            <p>To work for any organization which provides me the opportunity to improve my skills and knowledge to growth along with the organization objectives.</p>
+            <hr />
+        <h2><li>Education</li></h2>
+        <ul>
+          <li><h3>Btech(CSE):DRK Institution of science and technology(2023)</h3>
+            <ul><li>CGPA-7</li></ul>
+          <li><H3>Intermediate(MPC):Sri chaitanya(2019)</H3>
+            <ul><li>CGPA-9.2</li></ul>
+          <li><H3>school:St.Rita High School(2017)</H3>
+            <ul><li>CGPA-7.2</li></ul>
+        </ul>
+        <hr/>
+        <h2><li>Academic projects</li></h2>
+        <ul>
+            <li>Traffic prediction for intelligent transportation using machine learning</li>
+            <li>Encryption schemes of cloud computing : A review</li>
+        </ul>
+        <hr />
+        <h2><li>Personal qualities</li></h2> 
+        <ul>
+            <li>Highly motivated and eager to learn new things</li>
+            <li>Ability to produce best result under pressure</li>
+            <li>Ability to work as individual as well as in group</li>
+        </ul>
+        <hr />
+        <h2><li>Languages</li></h2>
+        <ul>
+            <li>English</li>
+            <li>Hindi</li>
+            <li>Telugu</li>
+        </ul>
+        <hr />
+        <h2><li>skills</li></h2>
+        <ul>
+            <li>Html</li>
+            <li>Power point</li>
+            <li>Word</li>
+        </ul>
+        <hr />
+    </ul>    
+</body>
+</html>
